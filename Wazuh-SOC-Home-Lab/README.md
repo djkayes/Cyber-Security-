@@ -13,7 +13,7 @@ Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
 
 **Screenshots** → [View all screenshots](Screenshots/)
 
-**Full Project Report** → [Project Report](Wazuh-SOC-Home-Lab/Project-Report 1 - Wazuh SIEM deployment.pdf)
+**Full Project Report** → [Project Report](https://github.com/djkayes/Cyber-Security-/blob/ecada8835c405d16f3d597b0db352f8386a13efa/Wazuh-SOC-Home-Lab/Project-Report%201%20-%20Wazuh%20SIEM%20deployment.pdf)
 
 ---
 ### Quick Setup Summary
