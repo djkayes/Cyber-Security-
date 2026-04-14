@@ -11,7 +11,7 @@
 **Tools Used:**  
 Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
 
-**Screenshots** → [View all screenshots](screenshots/)
+**Screenshots** → [View all screenshots](Screenshots/)
 
 **Full Project Report** → [Project Report](Project-Report 1- Wazuh SIEM deployment.pdf)
 
