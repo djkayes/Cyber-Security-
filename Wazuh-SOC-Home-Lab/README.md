@@ -16,9 +16,20 @@ Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
 **Full Project Report** → [Project Report](https://github.com/djkayes/Cyber-Security-/blob/ecada8835c405d16f3d597b0db352f8386a13efa/Wazuh-SOC-Home-Lab/Project-Report%201%20-%20Wazuh%20SIEM%20deployment.pdf)
 
 ---
-### Quick Setup Summary
-1. Installed Wazuh All-in-One using official installer
-2. Deployed Wazuh agent on the same host
-3. Accessed dashboard and verified first alerts
+# Wazuh SOC Home Lab - Project 2: Basic Monitoring + File Integrity & Log Analysis
+
+**Project Goal:** Enable File Integrity Monitoring (FIM), generate controlled activity, analyze alerts in the Wazuh dashboard, and practice manual log investigation to build foundational SOC triage skills.
+
+**Skills Demonstrated:**
+-File Integrity Monitoring (FIM) configuration and management
+-Alert triage and investigation in Wazuh dashboard
+-Basic incident investigation and documentation
+
+**Tools Used:**  
+Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
+
+**Screenshots** → [View all screenshots](Screenshots/)
+
+**Full Project Report** →
 
 **Next Projects:** Brute-force simulation, Wireshark integration, custom rules, etc. (coming soon)
