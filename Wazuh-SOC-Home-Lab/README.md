@@ -30,6 +30,6 @@ Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
 
 **Screenshots** → [View all screenshots](Screenshots/)
 
-**Full Project Report** →
+**Full Project Report** → [Project_Report 2](https://github.com/djkayes/Cyber-Security-/blob/a989a9f46aa55713fb9e55e28f3a4ad3664a2d02/Wazuh-SOC-Home-Lab/Project_Report%202%20-%20Wazuh%20FIM%20Analysis.pdf)
 
 **Next Projects:** Brute-force simulation, Wireshark integration, custom rules, etc. (coming soon)
