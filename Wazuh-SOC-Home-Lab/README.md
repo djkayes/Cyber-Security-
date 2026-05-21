@@ -21,9 +21,9 @@ Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
 **Project Goal:** Enable File Integrity Monitoring (FIM), generate controlled activity, analyze alerts in the Wazuh dashboard, and practice manual log investigation to build foundational SOC triage skills.
 
 **Skills Demonstrated:**
--File Integrity Monitoring (FIM) configuration and management
--Alert triage and investigation in Wazuh dashboard
--Basic incident investigation and documentation
+- File Integrity Monitoring (FIM) configuration and management
+- Alert triage and investigation in Wazuh dashboard
+- Basic incident investigation and documentation
 
 **Tools Used:**  
 Wazuh 4.14 (All-in-One), VMware Workstation, Ubuntu 24.04 LTS
