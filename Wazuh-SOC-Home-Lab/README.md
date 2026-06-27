@@ -48,4 +48,4 @@ Wazuh 4.14 (All-in-One), Kali Linux, Hydra, Nmap, VMware Workstation, Ubuntu 24.
 
 Screenshots → [View all screenshots](Screenshots/)
 
-Full Project Report → [Project_Report 3](https://github.com/djkayes/Cyber-Security-/blob/main/Wazuh-SOC-Home-Lab/Project-Report-3-Simulate-Attacks.md)
+Full Project Report → [Project_Report 3](https://github.com/djkayes/Cyber-Security-/blob/ef4cac9f6a54dd0e8cb426c5e6573371678f6b58/Wazuh-SOC-Home-Lab/Project_Report%203%20-%20Wazuh%20SIEM%20Attack%20Simulation%20and%20Detection..pdf)
