@@ -25,5 +25,5 @@ The Python script automates the file-update workflow through the following seque
 
 -- View full notebook code here [https://github.com/djkayes/Cyber-Security-/blob/17031188d3d3fca36104f78dff26f9fc6f3debb7/Python_Projects/Python_Practice_1.ipynb]
 
--- SCREENSHOTS of Each step are listed here [
+-- SCREENSHOTS of Each step are listed here [https://github.com/djkayes/Cyber-Security-/tree/d921cfad85873a2b30d0488cc91ed9c0e268c61a/Python_Projects/Screenshots]
 
