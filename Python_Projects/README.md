@@ -9,7 +9,7 @@ This project was completed as part of my practical cybersecurity training to bui
 
 ## Project Objectives & Workflow
 The Python script automates the file-update workflow through the following sequential steps:
-1. Opening Files Safely:Accessing the allow list text file using secure context managers.
+1. Opening Files Safely: Accessing the allow list text file using secure context managers.
 2. Reading Data: Loading the contents of the file into a variable.
 3. Parsing Data:  Converting raw string data into a structured Python list format.
 4. Iterating Through Elements:  Using a `for` loop to cycle through unauthorized IP addresses.
